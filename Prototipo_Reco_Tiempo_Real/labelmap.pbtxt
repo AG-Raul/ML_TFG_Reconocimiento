@@ -1,0 +1,10 @@
+item {
+    id: 1
+    name: 'Persona Asegurada'
+}
+item {
+    id: 2
+    name: 'Persona	No Asegurada'
+}
+
+

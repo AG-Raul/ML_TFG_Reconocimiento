@@ -10,7 +10,7 @@ Encontrarás una carpeta llamada Reco_Img_Estáticas, en donde se incluirá todo
 
 ## Reconocimiento de objetos en tiempo real
 
-En la carpeta llamada Prototipo_Reco_Tiempo_Real, estarán todos los scripts necesarios para la elaboración del proyecto. Además, encontrarás la carpeta checkpoints que incluye los chekpoints del entrenamiento. También los gráficos de inferencia tanto del modelo implementado en el PC (inference_graph), junto con el archivo pipline.config del modelo de mobilnetv2 editado.
+En la carpeta llamada Prototipo_Reco_Tiempo_Real, estarán todos los scripts necesarios para la elaboración del proyecto. Además, encontrarás la carpeta checkpoints que incluye los chekpoints del entrenamiento. También el gráfico de inferencia del modelo implementado en el PC (inference_graph), junto con el archivo pipline.config del modelo de mobilnetv2 editado.
 
 Por último en la carpeta RaspberryPI  estarán incluidos el gráfico de inferencia generado para Tflite (Custom_model_lite) y el modelo convertido a Tflite (detect.tflite) junto a su correspondiente label map (labelmap.txt) y el script necesario para activar el módulo V2 y el modelo (TFLite_detection_webcam.py).
 

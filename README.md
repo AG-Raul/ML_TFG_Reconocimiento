@@ -16,7 +16,7 @@ Por último en la carpeta RaspberryPI  estarán incluidos el gráfico de inferen
 
 ## Latex
 
-En la carpeta llamada Latex, se encontrará todos los archivos necesarios para la redacción del proyecto en Overleaf comprimidos en un archivo RAR. Junto con todas las imágenes empleadas en el proyecto, bibliografía, apéndices, etc.
+En la carpeta llamada Latex, se encontrarán todos los archivos necesarios para la redacción del proyecto en Overleaf comprimidos en un archivo RAR. Junto con todas las imágenes empleadas en el proyecto, bibliografía, apéndices, etc.
 
 
 

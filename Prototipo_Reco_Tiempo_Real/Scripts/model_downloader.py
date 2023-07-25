@@ -1,6 +1,4 @@
 # Descargarmos el modelo de interes
-
-
 import wget
 import tarfile
 

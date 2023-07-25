@@ -2,7 +2,7 @@
 
 
 
-En este repositorio, se encuentra todos los códigos necesarios para el desarrollo del TFG de reconocimiento de objetos en tiempo real. 
+En este repositorio, se encuentran todos los códigos necesarios para el desarrollo del TFG de reconocimiento de objetos en tiempo real. 
 
 ## Reconocimiento de imágenes estáticas
 
